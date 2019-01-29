@@ -86,7 +86,7 @@ function userInterface() {
                             console.log("==============================================");
                             console.log("Order details:");
                             console.log("Item bought " + itemPurchased);
-                            console.log("Quanity bought " + itemBought + " for $" + res[0].price);
+                            console.log("Quanyity bought " + itemBought + " for $" + res[0].price);
                             console.log("Total Cost: $" + totalPrice);
                             console.log("\n\r");
                             console.log("Thank you for shopping with us.");
